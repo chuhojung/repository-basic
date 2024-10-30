@@ -1,11 +1,3 @@
-# repository-basic
-
-### 이 repository는,
-* Remote repository의 생성
-* Local로 Clone
-* Local에서 수정
-* Local에서 Commit
-* Remote로 Push
-
-### 를 연습하기 위해 만들어졌습니다.
-
+![image](https://github.com/user-attachments/assets/15a58553-ea50-48f0-8f4f-35bc8ab38369)
+![image](https://github.com/user-attachments/assets/ea27effa-2885-4138-9cd7-9d680977f2d0)
+![image](https://github.com/user-attachments/assets/6e736544-7e8c-483b-be96-3407ab891b2f)
